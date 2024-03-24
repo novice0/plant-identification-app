@@ -1,2 +1,2 @@
-# plant-identification-app
-A Plant Identifcation for a college project
+# Plant-Identification-App
+A Plant Identifcation App for a college project
