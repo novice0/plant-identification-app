@@ -44,4 +44,4 @@ app.*.map.json
 
 *.h5
 
-*.dylib
+/api/venv/lib
