@@ -45,3 +45,4 @@ app.*.map.json
 *.h5
 
 api/venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib
+api/venv/lib/python3.12/site-packages/clang/native/libclang.dylib
