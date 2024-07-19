@@ -43,3 +43,5 @@ app.*.map.json
 /android/app/release
 
 *.h5
+
+api/venv/lib/python3.12/site-packages/tensorflow/libtensorflow_cc.2.dylib
