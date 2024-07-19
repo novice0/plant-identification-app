@@ -44,4 +44,4 @@ app.*.map.json
 
 *.h5
 
-/api/venv/lib
+api/venv/lib/**
